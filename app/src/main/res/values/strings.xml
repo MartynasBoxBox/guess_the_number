@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Guess the Number</string>
+    <string name="btn_start">Start game</string>
+    <string name="btn_results">Results</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_about">About</string>
+    <string name="text_university">Kauno Technologijos Universitetas</string>
+    <string name="text_faculty">Informatikos fakultetas</string>
+    <string name="text_name">Martynas Bajoras, IF-7/1</string>
+    <string-array name="difficulty_items">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Impossible</item>
+    </string-array>
+    <string name="text_playername">Player Name</string>
+    <string name="text_playerage">Player age</string>
+    <string name="switch_sound">Sound</string>
+    <string name="btn_saveSettings">Save</string>
+    <string name="number_range_format">Guess a number in range %d to %d</string>
+    <string name="turns_format">Turn %d of %d</string>
+    <string name="result_format">Guessed number was %d and it was too %s.</string>
+    <string name="result_out_of_range" translatable="false">Guessed number %d is out of range.</string>
+    <string name="score_format" translatable="false">Available score %d.</string>
+    <string name="result_high">high</string>
+    <string name="result_low">low</string>
+    <string name="btn_guess">Guess</string>
+    <string name="text_win">You win! Congratulations!</string>
+    <string name="text_lose">You\'ve lost!</string>
+</resources>
